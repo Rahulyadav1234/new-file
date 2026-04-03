@@ -1,0 +1,23 @@
+h1 {
+    color: aqua;
+    background-color: blueviolet;
+    font: 200;
+    font-size: medium;
+    text-align: center;
+}
+
+p {color: brown;
+    background-color: lawngreen;
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+    text-decoration: line-through;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+
+
+
+
+}
+
+
