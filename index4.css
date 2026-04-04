@@ -1,0 +1,9 @@
+.boxmodel {
+color: brown;
+background-color: #bbff00;
+/* border-width: 2px;
+border-style: dashed;
+border-color: blueviolet; */
+border: 2px solid rgba(6, 6, 6, 0.936);
+padding: 10px;
+}
