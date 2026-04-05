@@ -1,9 +1,26 @@
+# .boxmodel {
+    
+}
+
 .boxmodel {
-color: brown;
-background-color: #bbff00;
+    font-size: large;
+color: blue;
+background-color: green;
 /* border-width: 2px;
 border-style: dashed;
 border-color: blueviolet; */
-border: 2px solid rgba(6, 6, 6, 0.936);
+
+border: 2px solid black;
+/* border-bottom: hsl(0, 5%, 4%); */
+
+
 padding: 10px;
+/* padding-left: 20px; */
+/* padding-bottom: 20px; */
+
+
+
+margin: 10px;
+/* margin-left: 20px; */
 }
+
