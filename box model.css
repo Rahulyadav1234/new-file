@@ -1,0 +1,37 @@
+. {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+ 
+body{
+    background-color: blueviolet;
+}
+
+.container {
+    background-color: aqua;
+    border: 2px solid red;
+    /* padding: 9px;
+    padding-top: 20px;
+    padding-left: 30px; */
+
+    /* padding/ margin top left bottom right */
+
+    /* padding: 20px 29px 34px 25px;
+
+    margin: 40px 35px 56px 29px; */
+    
+    /* padding/margin y [top/bottom] x [left/right] */
+
+    /* box-sizing: border-box; */
+
+    padding: 35px 55px;
+
+    margin: 36px 69px;
+
+    border-radius: 30px;
+
+    width: 600px;
+
+   
+}
